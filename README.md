@@ -38,9 +38,9 @@ This is a advanced 2d platformer template for Godot Engine with advanced movemen
 ## Prerequisites
 - Godot Engine 4.x or later
 
-##Installation
+## Installation
 
 1. Clone the repository:
-	```git clone https://github.com/RicoLViviers/Godot-2D-platformer-template.git```
+`git clone https://github.com/RicoLViviers/Godot-2D-platformer-template.git`
 2. Open the project in Godot
 3. Explore the demo scenes and customize project to your liking
